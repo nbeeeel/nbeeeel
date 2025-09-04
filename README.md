@@ -3,7 +3,7 @@
 💻 **AI Researcher | Distributed Systems Developer | Computer Vision Engineer**  
 I build **scalable AI systems, high-performance distributed pipelines, and real-world computer vision applications**. My work spans **parallel programming, multi-node GPU clusters, medical AI, and industrial automation**.  
 
-🌐 [GitHub](https://github.com/nbeeeel) | [ResearchGate](https://www.researchgate.net/profile/Nabeel-Khan-47?ev=hdr_xprf) | [Google Scholar](https://scholar.google.com/) | [LinkedIn](https://linkedin.com)  
+🌐 [GitHub](https://github.com/nbeeeel) | [ResearchGate](https://www.researchgate.net/profile/Nabeel-Khan-47?ev=hdr_xprf) | [Google Scholar](https://scholar.google.com/citations?user=kjpRJY4AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/nabeel-ahmed-khan-677476367/)  
 
 ---
 
