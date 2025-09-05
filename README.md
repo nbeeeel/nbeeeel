@@ -27,7 +27,7 @@ I build **scalable AI systems, high-performance distributed pipelines, and real-
   NCCL + Gloo based multi-node training system.  
 
 - ⚡ **20-Node GPU Supercomputer Setup**  
-  Designed and deployed HPC cluster for vision & language models.  
+  Configured 20 Node Cluster for vision & language models.  
 
 - ⚡ **Custom TCP-NCCL Inference Pipeline**  
   Hybrid network configuration for optimized inference at scale.  
@@ -37,10 +37,10 @@ I build **scalable AI systems, high-performance distributed pipelines, and real-
 ## 👁️ Computer Vision & AI Applications  
 
 - 🎯 **Rice Grain Segmentation & Classification**  
-  Hybrid watershed + grid referencing algorithm (industrial project with Alkaram Rice Engineering Pvt. Ltd.).  
+  Hybrid watershed + grid referencing algorithm.  
 
-- 🎯 **Cow Breed Classification (YOLOv8 + handcrafted features)**  
-  Collaboration with Ministry of Livestock, Punjab.  
+- 🎯 **Cow Breed Classification**  
+  Designed algorithm for cow breed analysis via phenotypical and visual features.  
 
 - 🎯 **Underwater Image Enhancement for Fish Tracking**  
   Developed real-time CV pipeline for marine ecology monitoring.  
@@ -83,7 +83,6 @@ I build **scalable AI systems, high-performance distributed pipelines, and real-
 ## 📫 Let's Connect  
 
 - 📧 Email: **nbeel.original@gmail.com**  
-- 🌍 Location: Rawalpindi, Pakistan  
 - 💼 Always open for **collaboration on distributed AI, HPC, and applied ML projects**.  
 
 ---
