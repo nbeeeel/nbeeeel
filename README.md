@@ -148,7 +148,7 @@ I build **scalable AI systems, high-performance distributed pipelines, and real-
 - 📝 *A convolutional state-space framework for wind turbine fault diagnosis* — **NDT & Evaluation, 2025**  
 - 📝 *Noise resilient fault detection in SCADA systems* — **Scientific Reports, 2025**  
 - 📝 *TRI-POSE-Net: Adaptive 3D human pose estimation* — **PLOS One, 2024**  
-- 📌 **Patent**: *Hybrid Involution-Convolution Feature Extraction with Adversarial Noise Injection* (US Application No. 18/903,512)  
+- 📌 **Patent**: *Hybrid Involution-Convolution Feature Extraction with Adversarial Noise Injection* 
 
 ---
 
